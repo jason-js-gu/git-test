@@ -1,4 +1,4 @@
-# git-test
+# git-oop
 - développer un jeux Dimineur en C# dans console;
 - le nombre de bombes, de lignes et colonnes de matrice saisis par l'utilisateur;
 - afficher la matrice avec les symbols pour cacher les bombes et les chiffres;
