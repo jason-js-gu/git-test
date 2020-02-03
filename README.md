@@ -6,4 +6,4 @@
 - lettre B signifie une bombe, autre lettre pour afficher la case;
 - si c'est une bombe, le jeux finit, donner un message;
 - sinon, afficher le chiffre, le jeux continue;
-- si l'utilisateur trouver toutes les bombes ou afficher tous les chiffre, il gagne.
+- si l'utilisateur trouve toutes les bombes ou fait afficher tous les chiffre, il gagne.
